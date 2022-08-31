@@ -1,6 +1,6 @@
-# rofi-pass2
-add passwords with 
+# rofi password manager
+Add passwords with:
 ```
 pass insert -m <entry_name>
 ```
-clipboard will clear after $clip_clear seconds (default 40)
+Clipboard will clear after $clip_clear seconds (default 40).
